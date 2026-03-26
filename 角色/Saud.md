@@ -1,6 +1,5 @@
 ---
 name: Saud
-maps_to: 沙特阿拉伯
 class: 中班
 status: 刚出场，被 Brad 拍肩膀
 ---

@@ -1,6 +1,5 @@
 ---
 name: Brad
-maps_to: 美国
 class: 大班
 status: 刚出场，正在巡视今天欺负谁
 ---

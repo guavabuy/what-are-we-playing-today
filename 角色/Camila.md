@@ -1,6 +1,5 @@
 ---
 name: Camila
-maps_to: 拉丁裔（墨西哥/南美）
 class: 大班
 status: 刚出场，被 Brad 吹口哨，未展开
 ---
