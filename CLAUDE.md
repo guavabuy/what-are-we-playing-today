@@ -24,7 +24,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ├── 角色/            ← 每个角色一个文件，YAML frontmatter 记录设定和状态
 ├── 剧本/            ← 按时间线分集，每集 = 一次聊天记录
 ├── 短片/            ← 独立成篇的精华片段（作者指定才写）
-└── 循环？历史？.md   ← 最初的灵感
+├── 正文/            ← 剧本的修剪版，给读者看的成品
+└── 灵感.md          ← 速记本，待处理的想法（- [ ] 未处理 / - [x] 已处理）
 ```
 
 ## 角色
@@ -37,6 +38,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | 大熊 | 俄罗斯 | 大班 | 独自在厕所，等龙少的消息 |
 | 小金 | 韩国 | 大班 | 跟着龙少离开厕所 |
 | 樱花酱 | 日本 | 小班 | 去上学了 |
+| Saud | 沙特阿拉伯 | 中班 | 被 Brad 拍肩膀，忍住了 |
 
 ## 悬念
 
@@ -52,7 +54,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 每次聊天的工作流
 
-1. 作者丢想法 → Claude 帮忙整理成剧本场景
+1. 先读 `灵感.md`，看有没有待处理的想法
+2. 作者丢想法 → Claude 帮忙整理成剧本场景
 2. 更新 `角色/*.md` 的 status 字段
 3. 如有新设定，更新 `世界观.md`
 4. commit + push 到 GitHub
