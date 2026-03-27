@@ -1,6 +1,6 @@
 ---
 name: Camila
-class: 大班
+class: 中班
 status: 刚出场，被 Brad 吹口哨，未展开
 ---
 
