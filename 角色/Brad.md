@@ -17,3 +17,7 @@ status: 刚出场，正在巡视今天欺负谁
 口头禅："How you doing?" / "Let's see who's feeling lucky today."
 
 #How-you-doing #feeling-lucky
+
+抗揍。不管被打几次，跌倒了马上爬起来，平均只疼一小会儿。1939年以来被打了30次，每次最多疼4%，然后很快就跟没事人一样。
+
+#抗揍 #恢复力极强
